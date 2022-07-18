@@ -24,7 +24,7 @@ package_name_summarize.py
 search_for_package.py
 ```
 
-We'll discuss what these all do later in teh document
+We'll discuss what these all do later in the document
 
 # Creating an SBOM
 Let's talk about what an SBOM is and how to create it.
